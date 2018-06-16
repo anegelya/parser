@@ -66,6 +66,7 @@
       "resolved": "https://registry.npmjs.org/co/-/co-4.6.0.tgz",
       "version": "4.6.0"
     },
+    "colors": "^1.2.5",
     "combined-stream": {
       "integrity": "sha1-cj599ugBrFYTETp+RFqbactjKBg=",
       "requires": {
